@@ -14,7 +14,7 @@ There are many ways to contribute,
 
 ## You have a question or suggestion
 
-Great! You are helping us create a more clear and improved repository. Simply raise a [corresponding issue](https://github.com/CarlosAndresd/template/issues/new?assignees=&labels=question&template=questions-or-suggestions.md&title=Question_Suggestion)
+Great! You are helping us create a more clear and improved repository. Simply raise a [corresponding issue](https://github.com/CarlosAndresd/template/issues/new?assignees=&labels=question&template=questions-or-suggestions.md&title=Question+or+Suggestion)
 
 ## You have found a bug
 
