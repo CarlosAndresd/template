@@ -38,7 +38,7 @@ body:
       description: Do you agree to being contacted to provide further details for this new functionality? If so, please provide your email below.
       options:
         - label: Yes, I agree.
-          required: true
+          required: false
   - type: input
     id: contact
     attributes:
